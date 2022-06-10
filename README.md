@@ -50,7 +50,7 @@
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" />
 </a>
   &nbsp;&nbsp;
-<a href="#">
+<a href="https://twitter.com/Priyankara_SL">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
 </a> 
   &nbsp;&nbsp;
