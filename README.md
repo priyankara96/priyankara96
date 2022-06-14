@@ -21,7 +21,7 @@
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Software Engineering**
             <a href="#"> <img src="https://user-images.githubusercontent.com/88779731/172684099-b5404b78-8050-4973-829a-38930eed2c6e.gif"  width="170" height="145" align="right"/>  </a>
 - 🔭 I’m currently working on SLT Digital Services (Pvt) Ltd.  
-- 🌱 I’m currently learning ReactJS, NodeJS, Java
+- 🌱 I’m currently learning ReactJS, NodeJS & Java
 - 👩‍💻 I’m skilled in web application development
 - 📫 How to reach me **chamidupriyankara.sl@gmail.com**
 <!--
@@ -38,33 +38,33 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamidupriyankara/">
+            <a href="https://www.linkedin.com/in/chamidupriyankara/">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" />
-</a> 
+            </a> 
   &nbsp;&nbsp;
-<a href="https://www.facebook.com/priyankara.facebook">
+            <a href="https://www.facebook.com/priyankara.facebook">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/facebook.svg" />
-</a>
+            </a>
   &nbsp;&nbsp;
-<a href="#">
+            <a href="#">
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" />
-</a>
+            </a>
   &nbsp;&nbsp;
-<a href="https://twitter.com/Priyankara_SL">
+            <a href="https://twitter.com/Priyankara_SL">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
-</a> 
+            </a> 
   &nbsp;&nbsp;
-<a href="#">
+            <a href="#">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
-</a> <!--
+            </a> <!--
   &nbsp;&nbsp;
-<a href="#">
+            <a href="#">
   <img  alt="Hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
-</a> -->
+            </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#">
+            <a href="#">
   <img  height="35px" src="https://user-images.githubusercontent.com/88779731/151955862-3e3638d2-57cc-47a9-ab11-b743bb97a585.gif" />
-</a>
+            </a>
 </p>
 
 <hr>
