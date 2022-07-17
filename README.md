@@ -54,7 +54,7 @@
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="https://medium.com/@chamidupriyankara.sl">
+            <a href="https://medium.com/@PriyankaraAthapaththu">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
             </a> <!--
   &nbsp;&nbsp;
