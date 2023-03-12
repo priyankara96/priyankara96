@@ -85,6 +85,7 @@
 <p align="center">
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743758-60751ac3-6a6d-443d-a7de-72f17754a7c1.png"></code> <!-- react     -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714624-1c372407-93d9-4d47-98da-f53fd2c9524e.png"></code> <!-- node      -->
+<code><img height="35" src="https://user-images.githubusercontent.com/88779731/224532240-74ae6fb8-e24d-4353-b2a0-b3f0f818e94a.png"></code> <!-- Swift     -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714284-9de0e45e-ed7d-48bd-a9a2-28505eb805f2.png"></code> <!-- html      -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714644-28238a7f-e603-4803-81d0-5b6f1117238e.jpg"></code> <!-- java      -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/154262306-75137579-6714-4c92-9532-a12431570a49.png"></code> <!-- JS        -->
