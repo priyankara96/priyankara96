@@ -101,9 +101,3 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743481-86021ece-34ef-4d59-bb3b-afc57e871dae.png"></code> <!-- firebase  -->
 </p>
 
-
-<div align="center">
-  
-  ![snake animation](https://github.com/priyankara96/priyankara96/blob/output/github-contribution-grid-snake2.svg)
-
-</div>
