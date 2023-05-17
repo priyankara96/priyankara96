@@ -100,3 +100,10 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151748954-51145cbc-0900-4434-9f0e-8a3d422ef6cf.png"></code> <!-- mongoDB   -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743481-86021ece-34ef-4d59-bb3b-afc57e871dae.png"></code> <!-- firebase  -->
 </p>
+
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/priyankara96/priyankara96/blob/output/github-contribution-grid-snake.svg)
+
+</div>
