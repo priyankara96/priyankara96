@@ -20,7 +20,7 @@
 
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Software Engineering**
             <a href="#"> <img src="https://user-images.githubusercontent.com/88779731/172684099-b5404b78-8050-4973-829a-38930eed2c6e.gif"  width="170" height="145" align="right"/>  </a>
-- 🔭 I’m currently working on [**3CS Web Design**](https://www.3cs.lk/).
+- 🔭 I’m currently working on <a href="https://www.3cs.lk/" style="text-decoration: none; color: black;">**3CS Web Design**</a>.
 - 🌱 I’m currently learning ReactJS, NodeJS & Java
 - 👩‍💻 I’m skilled in web application development
 - 📫 How to reach me **chamidupriyankara.sl@gmail.com**
