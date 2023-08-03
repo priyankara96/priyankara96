@@ -63,7 +63,7 @@
             </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
             <a href="#">
-  <img  height="35px" src="https://user-images.githubusercontent.com/88779731/151955862-3e3638d2-57cc-47a9-ab11-b743bb97a585.gif" />
+  <img  height="35px" src="https://github.com/priyankara96/priyankara96/assets/88779731/18ce867e-b858-479d-a999-eac51dca5c55" />
             </a>
 </p>
 
